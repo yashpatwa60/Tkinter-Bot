@@ -9,7 +9,7 @@ also final.xlsx file to extract data.
 ## About
 A very basic CHATBOT made using python and graphical interface made using tkinter module. This chatbot is embeded in my tkinter application based on attendance management. I have also used regular expression to answer some question with changing parameters like digit, date, name etc.
 Suggestion buttons are putted on chat screen to enhance converstion between bot and user.
-
+you can find ss of bot [here](https://www.linkedin.com/in/yash-patwa-558ab619b/)
 
 ### It can answer this set of questions :  
 :sunglasses:
