@@ -5,8 +5,8 @@
 Note : This bot.py requires test.py, cleancode.py file to run.
 also final.xlsx file to extract data.
 ```
-### It can answer this set of questions : 
- :simple_smile:
+### It can answer this set of questions :  
+:tropical_fish:
 
 1.continous_present = ['continously present from 2 or 3 days', 'present from 1 or 2 days', 'from 1 or 2 days present'] 
 
