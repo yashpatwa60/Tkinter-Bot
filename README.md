@@ -4,7 +4,13 @@
 ```
 Note : This bot.py requires test.py, cleancode.py file to run.
 also final.xlsx file to extract data.
+
 ```
+## About
+A very basic CHATBOT made using python and graphical interface made using python tkinter module. This chatbot is embeded in my tkinter application based on attendance management of students. I have also used regular expression to answer some question with changing parameters like digit, date, name etc.
+Suggestion buttons are putted after finishing your conversation to enhance converstion between bot and user.
+
+
 ### It can answer this set of questions :  
 :sunglasses:
 
