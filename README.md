@@ -1,9 +1,10 @@
 # tkinter_bot
-Basic tkinter CHATBOT
+## Basic tkinter CHATBOT
 
+```
 Note : This bot.py requires test.py, cleancode.py file to run.
 also final.xlsx file to extract data.
-
+```
 It can answer this set of questions :
 ^-^
 
@@ -35,7 +36,7 @@ It can answer this set of questions :
 13.about_me = ['who made you', 'what is name of developer']
 
 14.about_bot = ['whats your name', 'info', 'who are you', 'how are you', 'details', 'about you']
-
+```
 Note : Suggestions are not based on machine learning , they are randomly thrown manually by the user.
 you can add suggestions by making a list and passing it to suggestion function.
-
+```
