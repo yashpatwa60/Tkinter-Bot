@@ -42,10 +42,12 @@ You can find screenshots of bot [here](https://www.linkedin.com/in/yash-patwa-55
 13.about_me = ['who made you', 'what is name of developer']
 
 14.about_bot = ['whats your name', 'info', 'who are you', 'how are you', 'details', 'about you']
+
+---
 ```
 Note : Suggestions are not based on machine learning , they are randomly thrown manually by the user.
 you can add suggestions by making a list and passing it to suggestion function.
 ```
 
----
+
 
