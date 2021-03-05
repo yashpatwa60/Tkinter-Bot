@@ -48,5 +48,4 @@ you can add suggestions by making a list and passing it to suggestion function.
 ```
 
 ---
-This is My first CHATBOT
-Your suggestions are Welcomed.
+
